@@ -23,8 +23,7 @@ var height = "74"
 These two just assign the value `"Joe"` and `"74"` to `name` and `height`, respectively. `name` and `height` are variables. `"Joe"` and `"74"` are Strings. We know they are Strings because they are wrapped in quotes. The next four lines do all of the outputting to your terminal.
 
 ```javascript
-console.log("Name:")
-console.log(name)
+console.log("Name:")console.log(name)
 
 console.log("Height:")
 console.log(height)
